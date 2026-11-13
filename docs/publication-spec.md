@@ -48,6 +48,8 @@ Package execution uses the pinned container runner and the shared concurrency li
 - Require all comparable cases to match. Record the number of cases and concrete results, including packages that have no dedicated test directory.
 - Bind the release review to the source commit and tarball hash. Verify that the committed packaged files match the checked source; excluded README-only changes are recorded separately.
 
+R-generated packaging metadata is reviewed explicitly. For example, rebuilding a cached R data file may update its serialization writer version; the serialized object payload must still match, and the exact difference is recorded.
+
 A failed check or comparison leaves the candidate held with its diagnostics. Existing evidence, thresholds and baseline inputs stay fixed.
 
 ## Public release
