@@ -2,7 +2,7 @@
 
 Reviving R software with AI.
 
-| Package | Purpose | Renova version | Validation |
+| Package | Purpose | Renova version | Linux validation |
 | --- | --- | --- | --- |
 | [BBSSL](https://github.com/renova-r/BBSSL) | Bayesian Bootstrap Spike-and-Slab LASSO | [0.1.0.9001](https://github.com/renova-r/BBSSL/releases/tag/renova-0.1.0.9001) | 0 errors, 0 warnings, 2 notes; 6 cases match |
 | [SamplerCompare](https://github.com/renova-r/SamplerCompare) | Compare MCMC samplers | [1.3.4.9001](https://github.com/renova-r/SamplerCompare/releases/tag/renova-1.3.4.9001) | 0 errors, 0 warnings, 3 notes; 29 cases match |
@@ -11,7 +11,7 @@ Reviving R software with AI.
 | [plogr](https://github.com/renova-r/plogr) | C++ logging headers | [0.2.0.9001](https://github.com/renova-r/plogr/releases/tag/renova-0.2.0.9001) | 0 errors, 0 warnings, 2 notes; 1 case matches |
 | [reactablefmtr](https://github.com/renova-r/reactablefmtr) | Interactive table styling and formatting | [2.0.0.9001](https://github.com/renova-r/reactablefmtr/releases/tag/renova-2.0.0.9001) | 0 errors, 0 warnings, 2 notes; 62 cases match |
 | [clv](https://github.com/renova-r/clv) | Internal and external cluster validation measures and cluster stability functions for results of the cluster package and user-defined clustering algorithms. | [0.3.2.5.9001](https://github.com/renova-r/clv/releases/tag/renova-0.3.2.5.9001) | 0 errors, 0 warnings, 2 notes; 17 cases match |
-| [RSvgDevice](https://github.com/renova-r/RSvgDevice) | An R graphics device that writes plots as W3C Scalable Vector Graphics (SVG) files. | [0.6.4.4.9001](https://github.com/renova-r/RSvgDevice/releases/tag/renova-0.6.4.4.9001) | 0 errors, 0 warnings, 5 notes; 1 case matches |
+| [RSvgDevice](https://github.com/renova-r/RSvgDevice) | An R graphics device that writes plots as W3C Scalable Vector Graphics (SVG) files. | [0.6.4.4.9002](https://github.com/renova-r/RSvgDevice/releases/tag/renova-0.6.4.4.9002) | 0 errors, 0 warnings, 4 notes; 1 case matches |
 | [JRF](https://github.com/renova-r/JRF) | Joint random forests for the simultaneous estimation of multiple related gene networks. | [0.1.4.9001](https://github.com/renova-r/JRF/releases/tag/renova-0.1.4.9001) | 0 errors, 0 warnings, 2 notes; 4 cases match |
 | [DDoutlier](https://github.com/renova-r/DDoutlier) | Distance- and density-based outlier detection algorithms (LOF, COF, INFLO, KDEOS, LOOP, LOCI and others) for multidimensional data. | [0.1.0.9001](https://github.com/renova-r/DDoutlier/releases/tag/renova-0.1.0.9001) | 0 errors, 0 warnings, 2 notes; 16 cases match |
 | [DynamicGP](https://github.com/renova-r/DynamicGP) | Emulation of large-scale dynamic computer experiments with localized Gaussian process models, and solution of inverse problems for them. | [1.1.9.9001](https://github.com/renova-r/DynamicGP/releases/tag/renova-1.1.9.9001) | 0 errors, 0 warnings, 2 notes; 4 cases match |
@@ -45,11 +45,11 @@ Reviving R software with AI.
 | [assertive.base](https://github.com/renova-r/assertive.base) | A lightweight core of the assertive package: predicates and assertions for run-time testing in other packages. | [0.0.9.9001](https://github.com/renova-r/assertive.base/releases/tag/renova-0.0.9.9001) | 0 errors, 0 warnings, 2 notes; 22 cases match |
 | [biclust](https://github.com/renova-r/biclust) | Biclustering algorithms (Cheng and Church, spectral, plaid, xMotifs, Bimax and others) with preprocessing, visualisation and validation tools. | [2.0.3.1.9001](https://github.com/renova-r/biclust/releases/tag/renova-2.0.3.1.9001) | 0 errors, 0 warnings, 3 notes; 21 cases match |
 | [bioPN](https://github.com/renova-r/bioPN) | Simulation of deterministic and stochastic biochemical reaction networks using Petri Nets, with Runge-Kutta, Gillespie-type and hybrid algorithms written in C. | [1.2.0.9001](https://github.com/renova-r/bioPN/releases/tag/renova-1.2.0.9001) | 0 errors, 0 warnings, 2 notes; 3 cases match |
-| [effectFusion](https://github.com/renova-r/effectFusion) | Bayesian effect fusion and variable selection for categorical predictors in linear and logistic regression models. | [1.1.3.9001](https://github.com/renova-r/effectFusion/releases/tag/renova-1.1.3.9001) | 0 errors, 0 warnings, 2 notes; 9 cases match |
+| [effectFusion](https://github.com/renova-r/effectFusion) | Bayesian effect fusion and variable selection for categorical predictors in linear and logistic regression models. | [1.1.3.9002](https://github.com/renova-r/effectFusion/releases/tag/renova-1.1.3.9002) | 0 errors, 0 warnings, 2 notes; 9 cases match |
 | [fastAdaboost](https://github.com/renova-r/fastAdaboost) | A fast C++-backed implementation of the Adaboost.M1 and real Adaboost (SAMME.R) algorithms with decision trees as weak classifiers, for binary classification. | [1.0.0.9001](https://github.com/renova-r/fastAdaboost/releases/tag/renova-1.0.0.9001) | 0 errors, 0 warnings, 2 notes; 8 cases match |
-| [glpkAPI](https://github.com/renova-r/glpkAPI) | R interface to the C API of the GNU Linear Programming Kit (GLPK); requires GLPK (>= 4.42). | [1.3.4.9001](https://github.com/renova-r/glpkAPI/releases/tag/renova-1.3.4.9001) | 0 errors, 0 warnings, 3 notes; 157 cases match |
+| [glpkAPI](https://github.com/renova-r/glpkAPI) | R interface to the C API of the GNU Linear Programming Kit (GLPK); requires GLPK (>= 4.42). | [1.3.4.9002](https://github.com/renova-r/glpkAPI/releases/tag/renova-1.3.4.9002) | 0 errors, 0 warnings, 3 notes; 157 cases match |
 | [gpclib](https://github.com/renova-r/gpclib) | General polygon clipping routines for R based on Alan Murta's C library (GPC). | [1.5.6.9001](https://github.com/renova-r/gpclib/releases/tag/renova-1.5.6.9001) | 0 errors, 0 warnings, 2 notes; 4 cases match |
-| [grr](https://github.com/renova-r/grr) | Faster alternative implementations of some base R functions: sort, order and match (sort2, order2, matches). | [0.9.9001](https://github.com/renova-r/grr/releases/tag/renova-0.9.9001) | 0 errors, 0 warnings, 2 notes; 5 cases match |
+| [grr](https://github.com/renova-r/grr) | Faster alternative implementations of some base R functions: sort, order and match (sort2, order2, matches). | [0.9.9002](https://github.com/renova-r/grr/releases/tag/renova-0.9.9002) | 0 errors, 0 warnings, 2 notes; 5 cases match |
 | [packer](https://github.com/renova-r/packer) | An opinionated framework for using 'JavaScript' in R projects: a wrapper around 'NPM', 'yarn' and 'webpack' with scaffolding functions. | [0.1.3.9001](https://github.com/renova-r/packer/releases/tag/renova-0.1.3.9001) | 0 errors, 0 warnings, 2 notes; 64 cases match |
 | [rdd](https://github.com/renova-r/rdd) | Regression discontinuity estimation: sharp and fuzzy designs by local linear regression, with Imbens-Kalyanaraman optimal bandwidth and a McCrary density test. | [0.57.9001](https://github.com/renova-r/rdd/releases/tag/renova-0.57.9001) | 0 errors, 0 warnings, 2 notes; 8 cases match |
 | [readxlsb](https://github.com/renova-r/readxlsb) | Import data from 'Excel' binary (.xlsb) workbooks into R. | [0.1.61.9001](https://github.com/renova-r/readxlsb/releases/tag/renova-0.1.61.9001) | 0 errors, 0 warnings, 2 notes; 1 case matches |
@@ -66,7 +66,7 @@ Reviving R software with AI.
 
 Validation uses R 4.6.2 on Linux and compares frozen outputs with the historical baseline. Each release includes its check log and NOTE remarks.
 
-[Live platform builds](https://renova-r.r-universe.dev/builds) show additional checks. RSvgDevice 0.6.4.4.9001 has a macOS compiler warning and retains its upstream Unix-only support.
+[Live platform builds](https://renova-r.r-universe.dev/builds) show checks on Linux, macOS, Windows and WebAssembly. RSvgDevice retains its upstream Unix-only support.
 
 ## Install
 
