@@ -66,6 +66,8 @@ Reviving R software with AI.
 
 Validation uses R 4.6.2 on Linux and compares frozen outputs with the historical baseline. Each release includes its check log and NOTE remarks.
 
+[Live platform builds](https://renova-r.r-universe.dev/builds) show additional checks. RSvgDevice 0.6.4.4.9001 has a macOS compiler warning and retains its upstream Unix-only support.
+
 ## Install
 
 Choose a package above, then install it with:
