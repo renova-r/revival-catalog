@@ -82,6 +82,8 @@ Give the installed R-universe GitHub app access to the new public package reposi
 
 The registry pins a release tag. R-universe builds its own artifacts from that source; its tarball hash can differ from the local GitHub asset because it adds generated documentation and metadata.
 
+After updating the registry, use the universe sidebar's **Check for package updates** button to start a sync. Record the resulting workflow IDs; an already queued sync or build is followed through instead of triggered again.
+
 Record each platform's reported check result and the deployment result. A green workflow alone is insufficient to establish that the public installation endpoint works. Verify:
 
 1. The package page displays the intended Renova version and source repository.
