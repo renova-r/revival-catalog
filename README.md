@@ -145,7 +145,7 @@ Reviving R software with AI.
 | [seqRFLP](https://renova-r.r-universe.dev/seqRFLP) | Simulates and plots restriction-enzyme cutting patterns from DNA sequences. | [1.0.1.9001](https://github.com/renova-r/seqRFLP/releases/tag/renova-1.0.1.9001) | 0 errors, 0 warnings, 3 notes. 23 frozen cases match target and history. R-universe source download verified. |
 | [SparkR](https://renova-r.r-universe.dev/SparkR) | Provides an R interface to Apache Spark. | [3.1.2.9002](https://github.com/renova-r/SparkR/releases/tag/renova-3.1.2.9002) | 0 errors, 0 warnings, 3 notes. 248 frozen cases match target and history (status-only). R-universe rebuilding. |
 | [rnoaa](https://renova-r.r-universe.dev/rnoaa) | Accesses weather and other data from NOAA in R. | [1.4.0.9001](https://github.com/renova-r/rnoaa/releases/tag/renova-1.4.0.9001) | 0 errors, 0 warnings, 2 notes. 67 frozen cases match target and history. R-universe source download verified. |
-| [MOSS](https://renova-r.r-universe.dev/MOSS) | Integrates multiple omics data sets using sparse singular value decomposition. | [0.2.2.9001](https://github.com/renova-r/MOSS/releases/tag/renova-0.2.2.9001) | 0 errors, 0 warnings, 2 notes. 16 frozen cases match target and history. R-universe build or deployment pending. |
+| [MOSS](https://renova-r.r-universe.dev/MOSS) | Integrates multiple omics data sets using sparse singular value decomposition. | [0.2.2.9002](https://github.com/renova-r/MOSS/releases/tag/renova-0.2.2.9002) | 0 errors, 0 warnings, 2 notes. 16 frozen cases match target and history. R-universe rebuilding. |
 
 Validation uses R 4.6.2 on Linux. Each release includes its check log, NOTE remarks and frozen-output comparisons, with any reviewed historical differences documented.
 
