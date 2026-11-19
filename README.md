@@ -144,6 +144,7 @@ Reviving R software with AI.
 | [sbioPN](https://renova-r.r-universe.dev/sbioPN) | Simulates spatial biochemical reaction networks with Petri nets. | [1.1.0.9001](https://github.com/renova-r/sbioPN/releases/tag/renova-1.1.0.9001) | 0 errors, 0 warnings, 2 notes; 3 frozen cases match target and history; R-universe building |
 | [seqRFLP](https://renova-r.r-universe.dev/seqRFLP) | Simulates and plots restriction-enzyme cutting patterns from DNA sequences. | [1.0.1.9001](https://github.com/renova-r/seqRFLP/releases/tag/renova-1.0.1.9001) | 0 errors, 0 warnings, 3 notes; 23 frozen cases match target and history; R-universe building |
 | [SparkR](https://renova-r.r-universe.dev/SparkR) | Provides an R interface to Apache Spark. | [3.1.2.9001](https://github.com/renova-r/SparkR/releases/tag/renova-3.1.2.9001) | 0 errors, 0 warnings, 3 notes; 248 frozen cases match target and history (status-only); R-universe building |
+| [rnoaa](https://renova-r.r-universe.dev/rnoaa) | Accesses weather and other data from NOAA in R. | [1.4.0.9001](https://github.com/renova-r/rnoaa/releases/tag/renova-1.4.0.9001) | 0 errors, 0 warnings, 2 notes; 67 frozen cases match target and history; R-universe building |
 
 Validation uses R 4.6.2 on Linux. Each release includes its check log, NOTE remarks and frozen-output comparisons, with any reviewed historical differences documented.
 
